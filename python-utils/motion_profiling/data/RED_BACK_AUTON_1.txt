@@ -1,0 +1,13 @@
+REVERSE
+12,108 //start
+64,108 //hit cap
+REVERSE
+36, 108
+TURN 45
+64,136 //grab cap
+REVERSE
+12,120 //post cap
+REVERSE
+16,84
+32,84
+OVERRIDE //drive on to platform

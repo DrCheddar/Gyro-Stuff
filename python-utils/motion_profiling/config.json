@@ -1,0 +1,12 @@
+{
+    "coordinates_filename": "data/test_c.csv",
+    "velocities_filename": "data/test_v.csv",
+    "output_filename": "../../src/csv/test.csv",
+    
+    "max_rpm": "200",
+    "diameter_of_omni": "4.125",
+    "drivebase_width": "14.125",
+    "deltat": "0.02",
+    "vmaxt": "1.0",
+    "amaxt": "20.0"
+}
